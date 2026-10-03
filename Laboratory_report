@@ -1,6 +1,8 @@
 # Laboratory Activity 5: Structured Workstation Light
 
-**Board:** ESP32 (ESP-WROOM) | **Language:** Arduino C++ | **Due:** October 3, 2026
+**Name:Shyane Novelle R. Canayan
+**Course: Programming For Internet of Things
+**Board:** ESP32 (ESP-WROOM) | **Language:** Arduino C++ 
 
 ---
 
@@ -28,7 +30,6 @@ The code must follow three clear parts: **input**, **processing**, and **output*
 
 ## 3. Circuit Diagram and Wiring
 
-![Hand-drawn circuit diagram](images/circuit-diagram.jpg)
 
 ### Wiring table
 
@@ -277,17 +278,3 @@ The expected values come from the formula `duty = raw × 255 / 4095`. The button
 The workstation light works as required. The button acts as an enable switch, the knob sets the brightness only while the button is held, and releasing the button turns everything off. The code is organized into input, processing, and output functions, and the scaling is done in `scaleToDuty(int raw)`. All required tests passed.
 
 ---
-
-## 12. Repository Files
-
-```
-.
-├── Laboratory_5.ino
-├── report.md
-└── images/
-    ├── circuit-diagram.jpg
-    ├── test-released.png
-    ├── test-held-low.png
-    ├── test-held-middle.png
-    └── test-held-high.png
-```
