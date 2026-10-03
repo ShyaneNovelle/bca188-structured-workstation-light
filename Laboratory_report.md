@@ -1,12 +1,13 @@
-
-https://github.com/user-attachments/assets/870a788a-4940-426f-b520-d26b13783ed8
 # Laboratory Activity 5: Structured Workstation Light
 
-**Name:Shyane Novelle R. Canayan
-**Course: Programming For Internet of Things
-**Board:** ESP32 (ESP-WROOM) | **Language:** Arduino C++ 
+**Name:** Shyane Novelle R. Canayan
 
----
+**Course:** Programming For Internet of Things
+
+**Board:** ESP32 (ESP-WROOM) 
+
+**Language:** Arduino C++ 
+
 
 ## 1. Objective
 
@@ -31,7 +32,7 @@ The code must follow three clear parts: **input**, **processing**, and **output*
 ---
 
 ## 3. Circuit Diagram and Wiring
-<img width="3060" height="2330" alt="0a8d3139-31ef-42db-83b7-83b53fe41056" src="https://github.com/user-attachments/assets/edb71537-cc29-4008-98f3-cebe871d6bff" />
+<img width="3060" height="2234" alt="d1ec34d7-282e-46b2-b2d2-867a56e2a758" src="https://github.com/user-attachments/assets/4940e967-1eaa-44a6-ae0f-bd1cb8c3a64d" />
 
 
 ### Wiring table
@@ -232,15 +233,12 @@ void updateOutputs() {
 
 | Test | Photo |
 |---|---|
-| Button released, outputs off | <img width="212" height="315" alt="Screenshot 2026-10-03 124843" src="https://github.com/user-attachments/assets/dd17f22c-3614-48b7-bebc-ab61a1accf56" />
- |
-| Button held, low knob | <img width="212" height="304" alt="Screenshot 2026-10-03 203716" src="https://github.com/user-attachments/assets/5d98adb0-2b0e-4efb-8a2f-98e13414ab5c" />
- |
-| Button held, middle knob | <img width="211" height="301" alt="Screenshot 2026-10-03 203802" src="https://github.com/user-attachments/assets/c6d5765f-c32c-49df-b6c6-717aaf5da2aa" />
- |
-| Button held, high knob | <img width="214" height="301" alt="Screenshot 2026-10-03 203836" src="https://github.com/user-attachments/assets/99e26048-5860-404b-84d1-e4f8dec227e1" />
-|
+| Button released, outputs off | <img width="212" height="315" alt="Screenshot 2026-10-03 124843" src="https://github.com/user-attachments/assets/dd17f22c-3614-48b7-bebc-ab61a1accf56" /> |
+| Button held, low knob | <img width="212" height="304" alt="Screenshot 2026-10-03 203716" src="https://github.com/user-attachments/assets/5d98adb0-2b0e-4efb-8a2f-98e13414ab5c" /> |
+| Button held, middle knob | <img width="211" height="301" alt="Screenshot 2026-10-03 203802" src="https://github.com/user-attachments/assets/c6d5765f-c32c-49df-b6c6-717aaf5da2aa" /> |
+| Button held, high knob | <img width="214" height="301" alt="Screenshot 2026-10-03 203836" src="https://github.com/user-attachments/assets/99e26048-5860-404b-84d1-e4f8dec227e1" /> |
 
+## Video
 > https://github.com/user-attachments/assets/278fc066-ddc0-4cf0-85cc-dcb3c882dab3
 
 ---
